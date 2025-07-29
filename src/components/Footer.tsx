@@ -98,7 +98,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-background/80">
             <span>© {currentYear} Sivaraj R. Made with</span>
-            <Heart className="h-4 w-4 text-red-400 fill-current" />
+           
             <span>and modern web technologies</span>
           </div>
 
