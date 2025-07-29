@@ -9,7 +9,7 @@ const Projects = () => {
       title: "Portfolio Website",
       period: "April 2025",
       description: "Developed a responsive personal portfolio using HTML and CSS to showcase projects, skills, and achievements.",
-      link: "https://6827722655910b1c1f0c6b7a-reliable-eclair-ed8077.netlify.app/",
+      link: "https://sivarajr.netlify.app/",
       technologies: ["HTML", "CSS", "JavaScript", "Responsive Design"],
       features: [
         "Focused on clean UI, cross-device compatibility, and accessible design",
